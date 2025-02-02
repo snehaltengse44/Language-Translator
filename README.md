@@ -1,0 +1,1 @@
+• Build pipeline with Helsinki-NLP/opus-mt-en-hi model, include multilingual tokenization, sequence padding for preprocessing. Fine-tuned MarianMT model with 306 M parameters using AdamWeightDecay, reducing training loss to 3.76 after one epoch
